@@ -59,5 +59,9 @@ To run the project using Docker:
 - Works well for various plant species in the dataset.
 
 
+Trained model link-https://drive.google.com/file/d/1-IQkH4rruNOS1OhDkFIecEkTiadYZaZG/view?usp=drive_link
+
+
+
 
 
